@@ -6,10 +6,7 @@
 ✦ ⚡ Fun fact: I live in Germany!
 
 ### Socials
-[![YouTube Widget]()](https://www.youtube.com/@alexander499_)
-[![Modrinth Widget]()](https://modrinth.com/user/Alexander499)
-[![Discord Widget]()](https://discord.com/channels/@me/926466897623519272)
-[![Steam Widget]()](https://steamcommunity.com/id/alexander499)
+### [YouTube](https://www.youtube.com/@alexander499_) • [Modrinth](https://modrinth.com/user/Alexander499) • [Discord](https://discord.com/channels/@me/926466897623519272) • [Steam](https://steamcommunity.com/id/alexander499)
 
 ### Script
 ```js
