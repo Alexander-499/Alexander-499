@@ -8,7 +8,7 @@
 ### Socials
 ### [YouTube](https://www.youtube.com/@alexander499_) • [Modrinth](https://modrinth.com/user/Alexander499) • [Discord](https://discord.com/channels/@me/926466897623519272) • [Steam](https://steamcommunity.com/id/alexander499)
 
-### Script
+### More Information
 ```js
 // src/profile.js
 const developer = {
@@ -23,5 +23,5 @@ const developer = {
   os: "Windows 11 Pro"
 };
 ```
-
+![Hackatime Stats](https://github-readme-stats.hackclub.dev/api/wakatime?username=984&api_domain=hackatime.hackclub.com&theme=transparent&custom_title=Hackatime+Stats&layout=compact&cache_seconds=0&langs_count=8)
 <!--- Alexander-499/Alexander-499 is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile. You can click the Preview link to take a look at your changes. --->
