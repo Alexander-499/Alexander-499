@@ -2,7 +2,7 @@
 ✦ 👀 I’m interested in Coding, Minecraft, Designing, Windows, YouTube and more!<br>
 ✦ 🌱 I’m currently learning many skills bit for bit which I am interested in.<br>
 ✦ 💞️ I’m looking to collaborate on everything im interested in.<br>
-✦ 📫 How to reach me: "aginfo9@gruenefeld.de"<br>
+✦ 📫 How to reach me: "[Alexander499's Discord (En)](https://discord.com/invite/XGxBGrJjkA)"<br>
 ✦ ⚡ Fun fact: I live in Germany!
 
 ### Socials
