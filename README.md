@@ -2,11 +2,11 @@
 ✦ 👀 I’m interested in Coding, Minecraft, Designing, Windows, YouTube and more!<br>
 ✦ 🌱 I’m currently learning many skills bit for bit which I am interested in.<br>
 ✦ 💞️ I’m looking to collaborate on everything im interested in.<br>
-✦ 📫 How to reach me: "[Alexander499's Discord (En)](https://discord.com/invite/XGxBGrJjkA)"<br>
+✦ 📫 How to reach me: `alexander499_` on Discord<br>
 ✦ ⚡ Fun fact: I live in Germany!
 
 ### Socials
-### [YouTube](https://www.youtube.com/@alexander499_) • [Modrinth](https://modrinth.com/user/Alexander499) • [Discord](https://discord.com/channels/@me/926466897623519272) • [Steam](https://steamcommunity.com/id/alexander499)
+### [YouTube](https://www.youtube.com/@alexander499_) • [Modrinth](https://modrinth.com/user/Alexander499) • [Discord](https://discord.com/invite/XGxBGrJjkA) • [Steam](https://steamcommunity.com/id/alexander499)
 
 ### More Information
 ```js
