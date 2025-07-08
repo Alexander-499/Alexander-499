@@ -15,7 +15,7 @@ const developer = {
   username: "Alexander499",
   dateOfBirth: new Date("19-04-****"),
   languages: [
-    "HTML", "CSS", "JavaScript", "node.js", "Scratch 💀", "MCCommands"
+    "HTML", "CSS", "JavaScript", "Node.js": ["Electron", "Capacitor", "Tauri"], "Scratch 💀", "MCCommands"
   ],
   tools: [
     "VSCode", "GitHub", "Git", "npm", "WinUI 3 Gallery"
